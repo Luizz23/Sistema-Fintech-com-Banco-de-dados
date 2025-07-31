@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="sistemafintech fisico" id="DFB041BF-132B-53FD-CA18-A9ADF0C49F60" version="3.5">
+<createdBy>fabuloso</createdBy>
+<createdTime>2025-05-13 23:25:03 UTC</createdTime>
+<ownerDesignName>sistemafintech fisico</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>DFB041BF-132B-53FD-CA18-A9ADF0C49F60</designId>
+</OSDM_Design>
